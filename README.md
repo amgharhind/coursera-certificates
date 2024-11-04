@@ -23,7 +23,7 @@ This repository serves as a digital portfolio of my learning achievements on Cou
 | -------------------------------------------------------- | -------------- | ------------------------------------------- |
 | [R Programming](https://coursera.org/verify/5NGW6PNXQ7NL)           | Jan 14, 2021   | R programming, statistical analysis         |
 | [Introduction to MongoDB](https://coursera.org/verify/C0UZWQKDOX9D) |    Aug 30, 2024   | MongoDB, NoSQL databases                    |
-| [Big Data Analysis with Scala and Spark](https://coursera.org/verify/JF7WT3JX479X) |  | Aug 15, 2024   | Big data, Apache Spark, Scala               |
+| [Big Data Analysis with Scala and Spark](https://coursera.org/verify/JF7WT3JX479X)  | Aug 15, 2024   | Big data, Apache Spark, Scala               |
 | [Generative AI for Everyone](https://coursera.org/verify/FJHRTCLZT3UB)  | Oct 18, 2024   | Generative AI concepts, AI applications     |
 | [Generative AI with Large Language Models](https://coursera.org/verify/YVYI49G28YDB) | Oct 12, 2024   | Large language models, AWS, DeepLearning.AI |
 
